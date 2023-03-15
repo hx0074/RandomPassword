@@ -25,7 +25,7 @@
 <summary><h4><strong><i>Deployment🚀</i></strong></h4></summary>
 <details><summary><strong>❍&nbsp;Deploy To <a href="https://dashboard.heroku.com/"><code>Heroku🌼</code></a></strong></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/ItsmeHyper13/Radndom-PassGen"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/hx0074/RandomPassword"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 <details><summary><strong>❍&nbsp;Deploy On <a href="https://cloud.okteto.com/"><code>Okteto👀</code></a></strong></summary>
